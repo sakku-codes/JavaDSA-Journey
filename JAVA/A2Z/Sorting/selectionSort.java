@@ -1,3 +1,4 @@
+package A2Z.Sorting;
 public class selectionSort {
     public static void main(String[] args) {
         int[] arr = {1,3,55,6,23,67};
