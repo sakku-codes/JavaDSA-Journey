@@ -1,4 +1,4 @@
-package A2Z.Sorting;
+package Sorting;
 import java.util.Arrays;
 
 public class bubbleSort {
