@@ -1,4 +1,4 @@
-package Leetcode;
+// package Leetcode;
 public class LongestCommonString{
     public static void main(String args[]){
         String[] arr = {"flower","flow","flight"};

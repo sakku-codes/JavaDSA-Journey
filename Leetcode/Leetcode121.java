@@ -19,7 +19,7 @@ public class Leetcode121 {
             if(max < a[i]){
                 max = a[i];
             }
-            if(min > )
+            // if(min > )
         }
 
         return 0;
