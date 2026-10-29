@@ -1,6 +1,6 @@
-package Leetcode;
+
 public class Leetcode121 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int[] arr = new int[7];
         arr[0] = 7;
         arr[1] = 6;
